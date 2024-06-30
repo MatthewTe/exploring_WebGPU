@@ -1,1 +1,1 @@
-# exploring_WebGPU
+# Exploring WebGPU
